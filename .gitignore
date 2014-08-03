@@ -1,0 +1,5 @@
+/KSPExceptionThrower/bin/Debug/*
+/KSPExceptionThrower/bin/Release/Assembly-CSharp.dll
+/KSPExceptionThrower/bin/Release/Assembly-CSharp-firstpass.dll
+/KSPExceptionThrower/bin/Release/UnityEngine.dll
+/KSPExceptionThrower/obj/Debug/*
